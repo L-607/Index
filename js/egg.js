@@ -1,0 +1,3 @@
+// build time:Fri Mar 08 2019 16:11:26 GMT+0800 (中国标准时间)
+var noattack="　　　　　　　┏┓　　　┏┓+ +\n"+"　　　　　　┏┛┻━━━┛┻┓ + +\n"+"　　　　　　┃　　　　　　　┃\n"+"　　　　　　┃　　　━　　　┃ ++ + + +\n"+"　　　　　 ████━████ ┃+\n"+"　　　　　　┃　　　　　　　┃ +\n"+"　　　　　　┃　　　┻　　　┃\n"+"　　　　　　┃　　　　　　　┃ + +\n"+"　　　　　　┗━┓　　　┏━┛\n"+"　　　　　　　　┃　　　┃\n"+"　　　　　　　　┃　　　┃ + + + +\n"+"　　　　　　　　┃　　　┃　　　　Animals bless, website no attack\n"+"　　　　　　　　┃　　　┃ + 　　　　神兽保佑,网站BUG\n"+"　　　　　　　　┃　　　┃\n"+"　　　　　　　　┃　　　┃　　+\n"+"　　　　　　　　┃　 　　┗━━━┓ + +\n"+"　　　　　　　　┃ 　　　　　　　┣┓\n"+"　　　　　　　　┃ 　　　　　　　┏┛\n"+"　　　　　　　　┗┓┓┏━┳┓┏┛ + + + +\n"+"　　　　　　　　　┃┫┫　┃┫┫\n"+"　　　　　　　　　┗┻┛　┗┻┛+ + + +";console.log("%c"+noattack,"color:orange");
+//rebuild by neat 
